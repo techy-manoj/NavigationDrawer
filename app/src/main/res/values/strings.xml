@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="my_image">my_image</string>
+    <string name="manoj">Manoj Kumar</string>
+    <string name="id">techy.manoj1947@gmail.com</string>
+    <string name="inbox">Inbox</string>
+    <string name="sent_mails">Sent Mails</string>
+    <string name="sub_header">Sub Header</string>
+    <string name="setting">Setting</string>
+    <string name="spam">Spam</string>
+    <string name="open_drawer">Open Navigation View</string>
+    <string name="close_drawer">Close Navigation View</string>
+</resources>
